@@ -6,9 +6,9 @@ This is done with gulp and gulp sass and gulp concat.
 ## Setup 
 
 ```
-git clone $this...
+git clone git@github.com:magnNorth/gulp-sass.compiler.git
 
-cd main-sass
+cd gulp-sass.compiler
 
 npm install 
 ```
