@@ -16,7 +16,9 @@ npm install
 ## Source
 
    Add styles in folders or just files
+   
    _Ensure the files use the scss file extension_
+   
    The build will collate all files and combine into the deploy folder
 
 
