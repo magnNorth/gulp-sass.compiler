@@ -19,15 +19,16 @@ npm install
 one off compile.
 
 ```
-gulp sass
+npm run build 
 ```
 
 Watch 
 
 ```
-gulp watch:sass
+npm run watch
 ```
+
 
 ## Deploy
 
-Develop on branches, and deploy with update to master (protected branch)
+THe build drops the new file in to deploy folder.
