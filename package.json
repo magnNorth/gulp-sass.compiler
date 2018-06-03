@@ -1,0 +1,22 @@
+{
+  "name": "main-sass",
+  "version": "1.0.0",
+  "description": "A sass test compile",
+  "main": "index.js",
+  "scripts": {
+    "build":"gulp sass",
+    "watch":"gulp sass:watch", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.2.1",
+    "gulp-watch": "4.x.x",
+    "stylelint": "^8.0.0",
+    "stylelint-order": ">=0.4.0",
+    "stylelint-scss": "1.x.x"
+  }
+}

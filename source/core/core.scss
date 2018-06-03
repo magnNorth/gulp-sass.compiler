@@ -1,0 +1,22 @@
+/*
+*   Add styles in folders or just files.
+*   The build will collate all files and combine.
+*   this is the simplist way wo handle this process.
+*/
+
+body{
+
+    background-color: #eee; 
+    color: #000;    
+
+    header{
+        background-color: #333;
+        color: #fff;
+    }
+    
+    section.dark{
+        background-color: #333;
+        color: #fff; 
+    }
+
+}
