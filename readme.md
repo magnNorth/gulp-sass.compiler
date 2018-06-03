@@ -39,4 +39,4 @@ npm run watch
 
 ## Deploy
 
-THe build drops the new file in to deploy folder.
+The build drops the new file in to deploy folder.
